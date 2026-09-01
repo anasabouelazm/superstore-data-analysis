@@ -6,7 +6,7 @@ End-to-end data analysis project using the Superstore dataset
 to explore sales, profitability, customers, products, discounts,
 and regional performance.
 
-🎯 Objectives
+##🎯 Objectives
 - Analyze sales and profit performance
 - Identify profitable and loss-making products
 - Analyze customer profitability
@@ -14,7 +14,7 @@ and regional performance.
 - Compare regional performance
 - Generate actionable business insights
 
-🛠️ Tools
+##🛠️ Tools
 - Python
 - Pandas
 - NumPy
@@ -22,16 +22,16 @@ and regional performance.
 - Seaborn
 - Jupyter Notebook
 
-🔍 Key Insights
+##🔍 Key Insights
 - Sales and profit performance were analyzed across 2016–2019
 - Technology was among the strongest profit contributors
 - Higher discounts were strongly associated with lower profitability
 - Customer profitability varied significantly
 - Loss-making transactions represented an important area for improvement
 
-📁 Project Structure
-- `SuperStore.ipynb` — Complete analysis and visualizations
+##📁 Project Structure
+- `Superstore.ipynb` — Complete analysis and visualizations
 
-📌 Key Skills Demonstrated
+##📌 Key Skills Demonstrated
 Python | Data Cleaning | Exploratory Data Analysis |
 Data Visualization | Statistical Analysis | Business Insights
