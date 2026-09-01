@@ -6,7 +6,7 @@ End-to-end data analysis project using the Superstore dataset
 to explore sales, profitability, customers, products, discounts,
 and regional performance.
 
-##🎯 Objectives
+## 🎯 Objectives
 - Analyze sales and profit performance
 - Identify profitable and loss-making products
 - Analyze customer profitability
